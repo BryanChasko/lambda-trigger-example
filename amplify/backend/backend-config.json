@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"lambdatriggerexample948060c8": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
